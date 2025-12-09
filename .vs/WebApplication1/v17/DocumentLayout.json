@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u05D5\\\u05D3\u05D5\u05D8\u05E0\u05D8\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76720D1A-496D-4B0C-9609-959F88224F38}|WebApplication1\\WebApplication1.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u05D5\\\u05D3\u05D5\u05D8\u05E0\u05D8\\webapplication1\\webapplication1\\gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76720D1A-496D-4B0C-9609-959F88224F38}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gitignore.txt",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u05D5\\\u05D3\u05D5\u05D8\u05E0\u05D8\\WebApplication1\\WebApplication1\\gitignore.txt",
+              "RelativeDocumentMoniker": "WebApplication1\\gitignore.txt",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u05D5\\\u05D3\u05D5\u05D8\u05E0\u05D8\\WebApplication1\\WebApplication1\\gitignore.txt",
+              "RelativeToolTip": "WebApplication1\\gitignore.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-09T21:55:06.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
